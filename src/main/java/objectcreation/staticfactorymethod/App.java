@@ -1,4 +1,4 @@
-package staticfactory;
+package objectcreation.staticfactorymethod;
 
 public class App {
 

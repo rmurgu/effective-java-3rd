@@ -1,4 +1,4 @@
-package staticfactory;
+package objectcreation.staticfactorymethod;
 
 /**
  * A class can provide its clients with static factory methods instead of, or in
